@@ -1,0 +1,18 @@
+.result{
+    background-color: rgb(134, 134, 134);
+    width: 380px;
+    height: 90px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 30px;
+}
+.p_result{
+    padding-left: 24px;
+   padding-bottom: 10px;
+}
+.button_result{
+    position: relative;
+    left: 120px;
+    bottom: 15px;
+    width: 100px;
+}
