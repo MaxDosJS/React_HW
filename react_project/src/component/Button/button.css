@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap');
+
+.my-button{
+    width: 193px;
+    height: 40px;
+    margin-top: -7px;
+    background-color: #20AD96;
+    font-family: 'Kumbh Sans';
+    font-weight: 600;
+    color: white;
+    border-radius: 4px;
+}

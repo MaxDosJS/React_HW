@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap');
+
+body{
+    background-color: rgb(181, 182, 186);
+}
+.app-container{
+    width: 100lvw;
+    height: 100lvh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.navbar-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 1440px;
+    height: 60px;
+    background-color: white;
+    
+}
+.img-navbar{
+    height: 27px;
+    width: 149px;
+}
+.navbar-div{
+    width: 576px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+}

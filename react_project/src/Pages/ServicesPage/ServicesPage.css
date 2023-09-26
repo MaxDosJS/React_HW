@@ -1,0 +1,166 @@
+.services{
+    width: 1440px;
+    height: 787px;
+    background-color: #FAF8F6;
+}
+.servicespage-div{
+    position: relative;
+    left: 86px;
+    top: 176px;
+    width: 454px;
+    height: 434px;
+}
+.services-p{
+    width: 293px;
+    height: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    color:  Gray;
+    font-family: 'Kumbh Sans';
+    line-height: 24px;
+}
+.services-h1{
+    width: 520px;
+    height: 308px;
+    font-weight: 800;
+    font-size: 52px;
+    color: #333461;
+    font-family: 'Kumbh Sans';
+    line-height: 74px;
+    position: relative;
+    bottom: 30px;
+}
+.services-p-two{
+    width: 480px;
+    height: 116px;
+    font-weight: 400;
+    font-size: 16px;
+    color:  #4A556C;
+    font-family: 'Kumbh Sans';
+    position: relative;
+    bottom: 140px;
+}
+.services-img{
+    width: 462px;
+    height: 603px;
+    position: relative;
+    left: 812px;
+    bottom: 380px;
+}
+.services-page-div{
+    position: relative;
+    bottom: 302px;
+    width: 1440px;
+    height: 1200px;
+    background-color: #FFFFFF;
+}
+.services-div{
+    width: 920px;
+    height: 988px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 260px;
+    top: 104px;
+}
+.services-div-h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 70px;
+    width: 680px;
+    height: 112px;
+    font-weight: 800;
+    font-size: 48px;
+    color:  #4A556C;
+    font-family: 'Kumbh Sans';
+}
+.services-blocks{
+    display: flex;
+    
+}
+.services-div-block-one{
+    width: 450px;
+    height: 360px;
+    border: 1px solid  #EDEFF5;
+}
+.services-div-block-two{
+    width: 450px;
+    height: 360px;
+    border: 1px solid  #EDEFF5;
+    margin-top: 50px;
+    margin-left: 14px;
+}
+.services-features{
+    width: 1440px;
+    height: 1082px;
+    background-color: #FFFFFF;
+    position: relative;
+    bottom: 318px;
+}
+.features-div{
+    width: 490px;
+    height: 266px;
+    margin-left: 112px;
+}
+.features-div-h1{
+    font-weight: 800;
+    font-size: 48px;
+    color:  #333461;
+    font-family: 'Kumbh Sans';
+    line-height: 59px;
+}
+.features-div-p{
+    font-weight: 800;
+    font-size: 16px;
+    color:  #4A556C;
+    font-family: 'Kumbh Sans';
+    line-height: 24px;
+}
+.features-div-p-two{
+    font-weight: 400;
+    font-size: 20px;
+    color:  #4A556C;
+    font-family: 'Kumbh Sans';
+    line-height: 30px;
+}
+.features-div-content{
+    width: 560px;
+    height: 496px;
+
+    margin-left: 112px;
+    margin-top: 96px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.features-content-block{
+    width: 560px;
+    height: 88px;
+    
+}
+.feature-content-p{
+    font-weight: 700;
+    font-size: 19px;
+    color:  #333461;
+    font-family: 'Kumbh Sans';
+    line-height: 24px;
+    position: relative;
+    left: 75px;
+    bottom: 80px;
+}
+.feature-content-p-two{
+    font-weight: 400;
+    font-size: 16px;
+    color:  #667085;
+    font-family: 'Kumbh Sans';
+    line-height: 24px;
+    position: relative;
+    left: 75px;
+    bottom: 100px;
+}
+.feature-img-content{
+    margin-left: 800px;
+    margin-top: -520px;
+}
