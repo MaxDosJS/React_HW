@@ -1,0 +1,88 @@
+.movie_poster_block h1{
+    font-size: 28px;
+}
+.movie_poster_block h2{
+    font-size: 28px;
+    padding-left: 80px;
+}
+.actors-container img{
+    width: 200px;
+    height: 200px;
+    padding-left: 8px;
+    padding-top: 5px;
+}
+.actors-container{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 16px;
+
+}
+.actors-container p{
+    color: white;
+    padding-left: 15px;
+    padding-top: 4px;
+}
+.actor-card{
+    width: 220px;
+    height: 280px;
+    background-color: black;
+    border-radius: 10px;
+    margin: 10px;
+}
+.movie_block{
+    
+    width: 1518px;
+    height: 850px;
+    background-color: rgb(22, 22, 22);
+}
+.movie_h1{
+    color: white;
+    padding-left: 800px;
+    position: relative;
+    top: 150px;
+}
+.Avg_rating{
+    color: white;
+    padding-left: 800px;
+    position: relative;
+    top: 155px;
+}
+.movie_block img{
+    padding-left: 250px;
+    position: relative;
+    bottom: 220px;
+}
+.movie_block img:hover{
+   cursor: pointer;
+   
+}
+.link_Movie{
+    color: whitesmoke;
+    text-decoration: none;
+    padding-left: 80px;
+    position: relative;
+    top: 10px;
+    font-size: 18px;
+}
+.budget{
+    color: white;
+    padding-left: 800px;
+    position: relative;
+    top: 160px;
+}
+.overview{
+    width: 500px;
+    height: 180px;
+    color: white;
+    padding-left: 800px;
+    position: relative;
+    top: 170px;
+    font-size: 22px;
+}
+.runtime{
+    color: white;
+    padding-left: 1050px;
+    position: relative;
+    top: -70px;
+    
+}
